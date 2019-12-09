@@ -519,6 +519,10 @@ aside[role=notes] {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  width: 655px;
+  margin-left: -335px;
+  text-align: center;
+  padding: 10px;
 }
 body {
   background-image: url("../images/gambar2.jpg");
